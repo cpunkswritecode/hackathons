@@ -13,7 +13,7 @@
 **Project URL**: https://github.com/keroserene/snowflake
 
 
-2. Tor Metrics
+### Tor Metrics
 
 **Description**:
 
@@ -28,7 +28,7 @@
 **Code**: https://gitweb.torproject.org/metrics-web.git
 
 
-3. OnionShare
+### OnionShare
 
 **Description**: OnionShare "lets you securely and anonymously share a file of any size" over Tor.
 
@@ -41,7 +41,7 @@
 **Code**: https://github.com/micahflee/onionshare
 
 
-4. Mission Improbable
+### Mission Improbable
 
 **Description**: Secure Android-based OS that starts with CopperheadOS
 and adds tighter Tor integration, and adds the Play Store so that
@@ -54,7 +54,7 @@ Signal and other secure apps can be installed
 **Project URL**: https://github.com/mikeperry-tor/mission-improbable
 
 
-5. Secure audio/video recording app for journalists/activists
+### Secure audio/video recording app for journalists/activists
 
 **Description/Motivation**: Activists want to record police
 interactions then encrypt and upload the video footage to a safe
@@ -94,7 +94,7 @@ For the new app, talk to Kiara (iOS dev) and Ellen (UXer)!
 - New app: https://github.com/cpunkswritecode/projects/tree/master/project-ideas/encrypted-footage-recording
 
 
-6. CryptoBot
+### CryptoBot
 
 **Description**: A bot to practice sending PGP-encrypted emails to
 that gives you feedback on how to make those messages more secure.
@@ -106,7 +106,7 @@ that gives you feedback on how to make those messages more secure.
 **Project URL**: https://github.com/EFForg/cryptobot-email
 
 
-7. Absence Alert
+### Absence Alert
 
 **Description/Motivation**: Motivation/description: Absence Alert is a
 FLOSS tool that will help vulnerable populations and activists get the
@@ -122,7 +122,7 @@ have to continually (say, daily) disable that alert from being sent.
 **Project URL**: https://github.com/Hainish/absence-alert
 
 
-8. CrypTag Notes
+### CrypTag Notes
 
 **Description**: End-to-end encrypted note-taking and shared wiki page
 editing app for Windows, Mac, and Linux desktops.  Built on CrypTag,
@@ -138,7 +138,7 @@ Sandstorm, your own server, etc.
 **Talk to**: Steve
 
 
-9. SecureDrop
+### SecureDrop
 
 **Description**: SecureDrop is an open-source whistleblower submission
 system that media organizations can use to securely accept documents
