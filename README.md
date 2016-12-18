@@ -1,6 +1,13 @@
 # Hackathon Projects
 
+## General Info
+
+- Chat room for every hackathon: [#cpunkswritecode](https://webchat.freenode.net/?channels=#cpunkswritecode) on FreeNode
+
+
 ## Hackathon #1: 2016.12.17 @ Noisebridge
+
+Projects list:
 
 ### Snowflake
 
