@@ -2,7 +2,8 @@
 
 ## General Info
 
-- Chat room for every hackathon: [#cpunkswritecode](https://webchat.freenode.net/?channels=#cpunkswritecode) on FreeNode
+- Chat room for every hackathon: [#cpunkswritecode](https://webchat.freenode.net/?channels=#cpunkswritecode)
+on FreeNode
 
 
 ## Hackathon #1: 2016.12.17 @ Noisebridge
@@ -11,7 +12,8 @@ Projects list:
 
 ### Snowflake
 
-**Description**: WebRTC-based pluggable transport (sub-project of Tor)
+**Description**: Tor pluggable transport for helping Tor users get
+around censorship of Tor (yes, Tor!)
 
 **Tech**: Go
 
@@ -22,13 +24,18 @@ Projects list:
 
 ### Tor Metrics
 
-**Description**:
+**Description**: "The primary place to learn interesting facts about
+the Tor network, the largest deployed anonymity network to date. If
+something can be measured safely, you'll find it here.
 
 **Tech**: Tech knowledge required: Java, maybe SQL
 
-**Motivation**: "Tor metrics are the ammunition that lets Tor and other security advocates argue for a more private and secure Internet from a position of data, rather than just dogma or perspective." - Bruce Schneier (June 1, 2016)
+**Motivation**: "Tor metrics are the ammunition that lets Tor and
+other security advocates argue for a more private and secure Internet
+from a position of data, rather than just dogma or perspective." -
+Bruce Schneier (June 1, 2016)
 
-**Getting Started URL**:
+**Getting Started URL**: https://trac.torproject.org/projects/tor/wiki/org/teams/MetricsTeam/Volunteers
 
 **Project URL**: https://metrics.torproject.org/ and https://collector.torproject.org/
 
@@ -37,11 +44,12 @@ Projects list:
 
 ### OnionShare
 
-**Description**: OnionShare "lets you securely and anonymously share a file of any size" over Tor.
+**Description**: OnionShare "lets you securely and anonymously share a
+file of any size" over Tor.
 
 **Tech**: Python
 
-**Getting Started URL**: https://github.com/micahflee/onionshare/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 and maybe https://mobile.twitter.com/elimisteve/status/810047694408298496
+**Getting Started URL**: https://github.com/micahflee/onionshare/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 
 **Project URL**: https://onionshare.org/
 
@@ -52,7 +60,7 @@ Projects list:
 
 **Description**: Secure Android-based OS that starts with CopperheadOS
 and adds tighter Tor integration, and adds the Play Store so that
-Signal and other secure apps can be installed
+Signal and other secure apps can be installed.
 
 **Tech**: Bash and a little Python
 
@@ -89,7 +97,6 @@ CameraCipher, both on the UI and usability front (make a better, pretty,
 easier to use Camera UI) and the encrypted media front (streaming video
 frames and audio in sync to an encrypted storage volume is hard!).
 
-
 - New app: https://github.com/cpunkswritecode/projects/tree/master/project-ideas/encrypted-footage-recording#idea-encrypted--replicated-video--audio-recording-app
 
 For the new app, talk to Kiara (iOS dev) and Ellen (UXer)!
@@ -115,12 +122,12 @@ that gives you feedback on how to make those messages more secure.
 
 ### Absence Alert
 
-**Description/Motivation**: Motivation/description: Absence Alert is a
-FLOSS tool that will help vulnerable populations and activists get the
-word out to their friends and family in case they are arrested or
-detained.  When you sign up for an account, you enter a message to be
-sent to a list of email addresses.  From that moment forward, you'll
-have to continually (say, daily) disable that alert from being sent.
+**Description/Motivation**: Absence Alert is a FLOSS tool that will
+help vulnerable populations and activists get the word out to their
+friends and family in case they are arrested or detained.  When you
+sign up for an account, you enter a message to be sent to a list of
+email addresses.  From that moment forward, you'll have to continually
+(say, daily) disable that alert from being sent.
 
 **Tech**: Rails, Bootstrap
 
@@ -132,17 +139,16 @@ have to continually (say, daily) disable that alert from being sent.
 ### CrypTag Notes
 
 **Description**: End-to-end encrypted note-taking and shared wiki page
-editing app for Windows, Mac, and Linux desktops.  Built on CrypTag,
-so it can store its data almost anywhere -- a local folder, Dropbox,
-Sandstorm, your own server, etc.
+app for Windows, Mac, and Linux desktops.  Built on
+[CrypTag](https://github.com/cryptag/cryptag), so it can use just
+about anything as the server -- Dropbox, a local folder, Sandstorm,
+your own server, etc.
 
 **Tech**: JavaScript (React.js), Bootstrap, Electron
 
 **Getting Started URL**: https://github.com/cryptag/notes/issues + Talk to Steve!
 
 **Project URL**: https://github.com/cryptag/notes
-
-**Talk to**: Steve
 
 
 ### SecureDrop
@@ -155,7 +161,8 @@ Press Foundation.
 
 **Tech**: Python
 
-**Getting Started URL**: https://github.com/cpunkswritecode/projects/issues/1#issuecomment-260164089
+**Getting Started URL**: https://github.com/cpunkswritecode/projects/issues/1#issuecomment-260164089 +
+Talk to the many SecureDrop people we have here (toward the front of the room)!
 
 **Project URL**: https://securedrop.org/
 
