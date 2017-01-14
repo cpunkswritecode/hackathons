@@ -2,6 +2,8 @@
 
 ## General Info
 
+- **URL of this page**: <https://github.com/cpunkswritecode/hackathons>
+
 - Chat room for every hackathon: [#cpunkswritecode](https://webchat.freenode.net/?channels=#cpunkswritecode)
 on FreeNode
 
