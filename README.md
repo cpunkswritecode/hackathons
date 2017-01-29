@@ -5,7 +5,7 @@
 - **URL of this page**: <https://github.com/cpunkswritecode/hackathons>
 
 - **Chat room** for every hackathon:
-  - Our new Mattermost chat server! Here's your invite: <http://bit.ly/cwc-mminvite>
+  - Our new Mattermost chat server! Here's your invite: [bit.ly/cwc-mminvite](https://bit.ly/cwc-mminvite)
   - This chat is bridged to [#cpunkswritecode](https://webchat.freenode.net/?channels=#cpunkswritecode)
 on FreeNode, so feel free to use your browser or IRC
 
